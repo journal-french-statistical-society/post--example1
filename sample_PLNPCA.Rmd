@@ -1,7 +1,7 @@
 ---
 title: "Dimension reduction of multivariate count data with PLN-PCA"
 description: |
-  A new article created using the Distill format.
+  A new article created using the Computo format.
 author:
   - name: Julien Chiquet 
     url: https://jchiquet@github.io
